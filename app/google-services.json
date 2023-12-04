@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096857818435",
+    "project_id": "avisadorincivisme-48e64",
+    "storage_bucket": "avisadorincivisme-48e64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096857818435:android:35d0c22d5bb6f0303e4bf6",
+        "android_client_info": {
+          "package_name": "com.example.avisadorincivisme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqmwsyVVMH16jDrOn9zHoALGvSzN1MCYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
